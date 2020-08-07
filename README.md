@@ -21,12 +21,24 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 ## Canais YouTube
 
 - [Estatística é com R](https://www.youtube.com/watch?v=dvkFWm6Th54&list=PL98wo5oPtTvK13bqouN2vRZdwcSAEf_jS)
+- [FGV IBRE](https://www.youtube.com/watch?v=8HQHf5XCS7g&list=PL3bZyZTK6djB6yVu4QbKObqp2Sst6HNPl)
+- [Chave R](https://www.youtube.com/channel/UCytoTTLkMFCeqa-pebNXrJA)
+- [Curso R](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)
+
 
 ## Livros
+- [R Livros e Apostilas](https://github.com/DATAUNIRIO/R_Livros_e_Apostilas)
+- [Manual de Análise de Dados com o R](https://livro.metodosquantitativos.com/docs/)
+
 
 ## Artigos
 
 ## Blog
+- [R instalação](http://leg.ufpr.br/~fernandomayer/aulas/ce083/R-instalacao.html)
+- [Curso R](https://www.curso-r.com/blog/)
+- [prof Steven](https://blog.metodosquantitativos.com/)
+- [prof Walmes](http://leg.ufpr.br/~walmes/home/)
+- [prof Fernando Mayer](http://leg.ufpr.br/~fernandomayer/)
 
 ## Outros
 
