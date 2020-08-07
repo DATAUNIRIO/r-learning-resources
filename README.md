@@ -34,6 +34,7 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 ## Artigos
 
 ## Blog
+- [Estatística é com R !](http://www.estatisticacomr.uff.br/)
 - [R instalação](http://leg.ufpr.br/~fernandomayer/aulas/ce083/R-instalacao.html)
 - [Curso R](https://www.curso-r.com/blog/)
 - [prof Steven](https://blog.metodosquantitativos.com/)
@@ -41,6 +42,10 @@ Please feel free to [contribute your suggestions](https://github.com/iamericflet
 - [prof Fernando Mayer](http://leg.ufpr.br/~fernandomayer/)
 
 ## Outros
+
+
+
+
 
 
 **Em inglês**
