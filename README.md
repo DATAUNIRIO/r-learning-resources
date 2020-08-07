@@ -2,7 +2,7 @@
 
 # <div align="center"> <p>Awesome R Learning Resources</p>![b3236f92-5a24-4348-b877-b5a3363c6468_200x200](https://user-images.githubusercontent.com/64165327/89210000-53b99e00-d58d-11ea-862e-25239e1fdd56.png)
 
-** Curadoria de vídeos, livros, artigos, blogs, etc. selecionados para ajudar a aprofundar sua compreensão da linguagem de programação R.**
+**Curadoria de vídeos, livros, artigos, blogs, etc. selecionados para ajudar a aprofundar sua compreensão da linguagem de programação R.**
 
 
 Por favor, sinta-se livre para [contribuir com suas sugestões](https://github.com/iamericfletcher/R-Learning-Resources/blob/master/CONTRIBUTING.md)
