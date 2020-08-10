@@ -37,9 +37,9 @@ Por favor, sinta-se livre para [contribuir com suas sugestões](https://github.c
 
 ## Blog
 - [Estatística é com R !](http://www.estatisticacomr.uff.br/)
-- [página da profa. Letícia Raposo](https://leticiaraposo.netlify.app/)
 - [R instalação](http://leg.ufpr.br/~fernandomayer/aulas/ce083/R-instalacao.html)
 - [Curso R](https://www.curso-r.com/blog/)
+- [profa. Letícia Raposo](https://leticiaraposo.netlify.app/)
 - [prof Steven](https://blog.metodosquantitativos.com/)
 - [prof Walmes](http://leg.ufpr.br/~walmes/home/)
 - [prof Fernando Mayer](http://leg.ufpr.br/~fernandomayer/)
