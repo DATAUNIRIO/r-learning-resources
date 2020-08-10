@@ -23,8 +23,9 @@ Por favor, sinta-se livre para [contribuir com suas sugestões](https://github.c
 
 - [Estatística é com R](https://www.youtube.com/watch?v=dvkFWm6Th54&list=PL98wo5oPtTvK13bqouN2vRZdwcSAEf_jS)
 - [FGV IBRE](https://www.youtube.com/watch?v=8HQHf5XCS7g&list=PL3bZyZTK6djB6yVu4QbKObqp2Sst6HNPl)
-- [Chave R](https://www.youtube.com/channel/UCytoTTLkMFCeqa-pebNXrJA)
 - [Curso R](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)
+- [Chave R](https://www.youtube.com/channel/UCytoTTLkMFCeqa-pebNXrJA)
+- [R Dicas](https://www.youtube.com/channel/UCOcUhsDTNeSIH5J-prbqF-g)
 
 
 ## Livros
@@ -36,6 +37,7 @@ Por favor, sinta-se livre para [contribuir com suas sugestões](https://github.c
 
 ## Blog
 - [Estatística é com R !](http://www.estatisticacomr.uff.br/)
+- [página da profa. Letícia Raposo](https://leticiaraposo.netlify.app/)
 - [R instalação](http://leg.ufpr.br/~fernandomayer/aulas/ce083/R-instalacao.html)
 - [Curso R](https://www.curso-r.com/blog/)
 - [prof Steven](https://blog.metodosquantitativos.com/)
